@@ -52,13 +52,3 @@ High-value customers identified
 Prediction model achieved good accuracy
 
 Insights useful for targeted marketing strategies
-
-📊 Results
-
-Customers successfully segmented into meaningful groups
-
-High-value customers identified
-
-Prediction model achieved good accuracy
-
-Insights useful for targeted marketing strategies
